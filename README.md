@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I’m Gianna J 👋
 
-<!--
-**Gianna2008-tech/Gianna2008-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech student in Artificial Intelligence and Data Science (AI&DS)
 
-Here are some ideas to get you started:
+I’m interested in learning how programming, data, and artificial intelligence can be used to solve real-world problems. I’m using GitHub to document my learning, share projects, and improve step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently learning
+- Programming and problem-solving
+- Artificial intelligence and data science concepts
+- Building and documenting small projects
+
+## 🎯 My goals
+- Strengthen my programming fundamentals
+- Explore data analysis and machine learning
+- Build useful projects and keep improving them
+
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/gianna-j-b86478422)
+
+Thanks for visiting my profile!
